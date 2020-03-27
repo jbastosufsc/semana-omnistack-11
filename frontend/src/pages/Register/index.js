@@ -24,7 +24,6 @@ export default function Register() {
           <input type='text' placeholder='Nome da ONG' />
           <input type='text' placeholder='E-mail' />
           <input type='text' placeholder='WhatsApp' />
-          <input type='text' placeholder='' />
           <div className='input-group'>
             <input type='text' placeholder='Cidade' />
             <input type='text' placeholder='UF' style={{ width: 80 }} />
